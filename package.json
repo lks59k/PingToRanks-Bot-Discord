@@ -1,0 +1,12 @@
+{
+  "name": "ping-to-rank-bot",
+  "version": "1.0.0",
+  "description": "Ping to Rank Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.18.0"
+  }
+}
